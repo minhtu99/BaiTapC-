@@ -1,0 +1,10 @@
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\bin\Debug\netcoreapp2.1\Bai2.deps.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\bin\Debug\netcoreapp2.1\Bai2.runtimeconfig.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\bin\Debug\netcoreapp2.1\Bai2.runtimeconfig.dev.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\bin\Debug\netcoreapp2.1\Bai2.dll
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\bin\Debug\netcoreapp2.1\Bai2.pdb
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\obj\Debug\netcoreapp2.1\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\obj\Debug\netcoreapp2.1\Bai2.AssemblyInfoInputs.cache
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\obj\Debug\netcoreapp2.1\Bai2.AssemblyInfo.cs
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\obj\Debug\netcoreapp2.1\Bai2.dll
+C:\Users\BKS\Desktop\Baitap_C#\Bai2\Bai2\obj\Debug\netcoreapp2.1\Bai2.pdb
