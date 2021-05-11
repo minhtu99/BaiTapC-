@@ -1,0 +1,11 @@
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\bin\Debug\netcoreapp2.1\Bai4.deps.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\bin\Debug\netcoreapp2.1\Bai4.runtimeconfig.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\bin\Debug\netcoreapp2.1\Bai4.runtimeconfig.dev.json
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\bin\Debug\netcoreapp2.1\Bai4.dll
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\bin\Debug\netcoreapp2.1\Bai4.pdb
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.csprojAssemblyReference.cache
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.csproj.CoreCompileInputs.cache
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.AssemblyInfoInputs.cache
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.AssemblyInfo.cs
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.dll
+C:\Users\BKS\Desktop\Baitap_C#\Bai4\Bai4\obj\Debug\netcoreapp2.1\Bai4.pdb
